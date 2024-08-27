@@ -1,4 +1,4 @@
-module taskApi
+module github.com/NickolaiP/taskApi/backend
 
 go 1.22
 

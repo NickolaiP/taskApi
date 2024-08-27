@@ -7,10 +7,10 @@ import (
 	"os/signal"
 	"time"
 
-	"taskApi/internal/config"
-	"taskApi/internal/database"
-	"taskApi/internal/hand"
-	"taskApi/internal/logger"
+	"github.com/NickolaiP/taskApi/backend/internal/config"
+	"github.com/NickolaiP/taskApi/backend/internal/database"
+	"github.com/NickolaiP/taskApi/backend/internal/hand"
+	"github.com/NickolaiP/taskApi/backend/internal/logger"
 
 	"github.com/gorilla/handlers"
 	"github.com/gorilla/mux"

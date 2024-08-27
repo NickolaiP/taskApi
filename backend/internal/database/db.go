@@ -6,7 +6,7 @@ import (
 	"fmt"
 	"time"
 
-	"taskApi/internal/config"
+	"github.com/NickolaiP/taskApi/backend/internal/config"
 
 	_ "github.com/lib/pq"
 )

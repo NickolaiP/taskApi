@@ -7,9 +7,9 @@ import (
 	"strconv"
 	"time"
 
-	"taskApi/internal/database"
-	"taskApi/internal/logger"
-	"taskApi/internal/models"
+	"github.com/NickolaiP/taskApi/backend/internal/database"
+	"github.com/NickolaiP/taskApi/backend/internal/logger"
+	"github.com/NickolaiP/taskApi/backend/internal/models"
 
 	"github.com/gorilla/mux"
 )
